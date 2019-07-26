@@ -8,4 +8,4 @@ end
     #method name      #parameter
 #def greeting_a_person(name)
 #  "Hello #{name}"
-end
+#end
